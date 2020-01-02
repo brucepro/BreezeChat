@@ -17,3 +17,5 @@ Premium services are built into the platform to enable social users to be highli
 3rd party payment systems will be established and commissions will be paid to the platforms owner account.
 Games built as plugins on the platform will pay for listing services.
 Users may opt in to see ads developed on the platform to earn XEM to their wallet (Fees collected from vendors)
+
+Timeline to lauch will be updated soon. 
